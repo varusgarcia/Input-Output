@@ -120,13 +120,13 @@ The participants would have to guess the number of points on them and intoduce t
 
 As I didn't have that much experience programming, I chose to make it with P5.js. The idea for the web was that the user could choose between each possible option. So, for example, he could choose North America and would see, first, the average guess of all north americans, and then, the average for each guess:
 
-![10](/Users/Alvaro/Desktop/10.png)
+![10](http://i.imgur.com/MVvf4rK.png)
 
 In this case, we can see that the total average is just under the perfect guess,but really noly the first one was near.
 
 Like this, we can click on each option and it would show the result as here. If we click on the total or the individual guesses, we get to see each option compared:
 
-![10](/Users/Alvaro/Desktop/11.png)
+![10](http://i.imgur.com/T6Ls94c.png)
 
 In this case, the user has clicked on "Guess1", and now he can compare the first guess for each option given in the form.
 
@@ -153,13 +153,13 @@ In my project, I replaced the spoken messages by rythms, the player could introd
 I decidet to realie the second idea, as it was more original and more fun to do.
 Here is the circuit:
 
-![10](/Users/Alvaro/Desktop/12.png)
+![10](http://i.imgur.com/aYH1kDb.png)
 
 And some photos of the process:
 
-![10](/Users/Alvaro/Desktop/13.jpg)
-![10](/Users/Alvaro/Desktop/14.jpg)
-![10](/Users/Alvaro/Desktop/15.jpg)
+![10](http://i.imgur.com/BJA2bXx.jpg)
+![10](http://i.imgur.com/GkKHdmk.jpg)
+![10](http://i.imgur.com/rn0b2Dt.jpg)
 
 [Here][link5] you can ses the final product in action and [here][link6] you can find the arduino code.
 
