@@ -167,11 +167,11 @@ I hope this was a good overview of what the course covers.
 
 
 
-[link1]: github.com/fullcodepixelimage
+[link1]: https://github.com/varusgarcia/Input-Output/blob/master/Algorythm/Algorythm.pde
 [link2]: https://docs.google.com/forms/d/1PAwjxJQz2l65CJPxiWn2zA7Dtr0jKwkhc1Q2Oo37FoQ/edit
 [link3]: https://varusgarcia.github.io
-[link4]: https://code.forguessing
-[link5]: https://videoflipdot
-[link6]: https://videoflipdot
+[link4]: https://github.com/varusgarcia/Input-Output/tree/master/Crowdsourcing
+[link5]: https://vimeo.com/123615966
+[link6]: https://github.com/varusgarcia/Input-Output/blob/master/Arduino/Arduino_code.ino
 
 [^flipdot]: What is a FLipdot? Well, it is an object that allows you to flip a circular shape, that can rotate 180º. How? the shape is magnetized and underneath there are two electomagnets with contrary polarities. When you change the  polarities (we used a h-bridge for that) the "dot" flips.
