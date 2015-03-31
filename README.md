@@ -161,7 +161,7 @@ And some photos of the process:
 ![10](http://i.imgur.com/GkKHdmk.jpg)
 ![10](http://i.imgur.com/rn0b2Dt.jpg)
 
-[Here][link5] you can ses the final product in action and [here][link6] you can find the arduino code.
+[Here][link5] you can see the final product in action and [here][link6] you can find the arduino code.
 
 I hope this was a good overview of what the course covers.
 
