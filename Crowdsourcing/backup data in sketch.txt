@@ -1,0 +1,10 @@
+var cont = ["Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","Europe","South America","Europe","Europe" , "Europe", "Europe"];
+var age = ["0-20","21-40","21-40","0-20","0-20","21-40","21-40","21-40","0-20","21-40","21-40","0-20","41-60","21-40","0-20","21-40","21-40","21-40","0-20","0-20", "0-20", "21-40"];
+var sex = ["Man","Man","Man","Man","Woman","Man","Man","Man","Woman","Man","Man","Man","Woman","Man","Man","Man","Man","Man","Man","Man","Man","Man"];
+var mind =["Artistic","Cientific","Artistic","Artistic","Artistic","Artistic","Scientific","Scientific","Artistic","Artistic","Scientific","Scientific","Artistic","Artistic","Artistic","Artistic","Artistic","Artistic","Scientific","Scientific","Artistic","Scientific"];
+var guess1 =[456,400,1500,700,500,547,300,800,270,600,400,750,650,3000,100,400,260,250,609,1500,500,550];
+var guess2 =[234,100,300,400,180,103,150,600,160,300,200,250,500,1000,75,100,130,100,326,800,200,220];
+var guess3 =[132,50,200,300,110,94,120,200,130,150,150,150,200,500,50,80,130,75,278,500,150,200];
+var guess4 =[567,400,800,650,700,477,380,900,330,450,320,950,600,2000,110,200,300,120,569,1300,250,500];
+var guess5 =[978,500,1500,1000,1000,683,800,1100,650,750,600,1800,1000,5000,175,500,500,350,1346,2000,600,1001];
+var people = 22;
